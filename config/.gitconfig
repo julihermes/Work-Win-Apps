@@ -1,0 +1,7 @@
+[user]
+	name = Julihermes Melo
+	email = julihermes@hotmail.com
+[init]
+	defaultBranch = main
+[pull]
+	rebase = true
