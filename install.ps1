@@ -3,13 +3,14 @@ Write-Output "MY WORK WINDOWS APPS"
 
 $apps = @(
     @{name = "JesseDuffield.lazygit" },
+    @{name = "CoreyButler.NVMforWindows" },
+    @{name = "GoLang.Go" },
+    @{name = "Docker.DockerDesktop" },
     @{name = "Neovim.Neovim" },
     @{name = "VSCodium.VSCodium" },
-    @{name = "CoreyButler.NVMforWindows" },
     @{name = "Postman.Postman" }
     @{name = "MongoDB.Compass.Full" },
     @{name = "emqx.mqttx" },
-    @{name = "Docker.DockerDesktop" },
     @{name = "Microsoft.VisualStudio.2022.Community" },
     @{name = "Microsoft.AzureDataStudio" },
     @{name = "Apache.DirectoryStudio" },
