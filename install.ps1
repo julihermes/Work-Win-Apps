@@ -13,6 +13,7 @@ $apps = @(
     @{name = "Microsoft.VisualStudio.2022.Community" },
     @{name = "Microsoft.AzureDataStudio" },
     @{name = "Apache.DirectoryStudio" },
+    @{name = "AdoptOpenJDK.OpenJDK.11" },
     @{name = "Mozilla.Firefox" },
     @{name = "Mozilla.Thunderbird" },
     @{name = "SlackTechnologies.Slack" }
