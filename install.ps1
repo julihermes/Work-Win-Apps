@@ -7,6 +7,7 @@ $apps = @(
     @{name = "GoLang.Go" },
     @{name = "Docker.DockerDesktop" },
     @{name = "Neovim.Neovim" },
+    @{name = "BurntSushi.ripgrep.MSVC" },
     @{name = "VSCodium.VSCodium" },
     @{name = "Postman.Postman" }
     @{name = "MongoDB.Compass.Full" },
